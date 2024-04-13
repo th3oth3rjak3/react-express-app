@@ -37,6 +37,7 @@ Install dependencies.
 ```bash
 npm i express @types/express
 npm i cors @types/cors
+npm i nodemon
 ```
 
 Rename index.js to index.ts
