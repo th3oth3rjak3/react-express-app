@@ -106,3 +106,5 @@ export default defineConfig({
 ```
 
 In the example code, you will find that I added a button to the main app to make a fetch request to the server endpoint.
+
+For more information about getting started with a fullstack app, see [React-Express](https://github.com/Techtonica/curriculum/blob/main/pair-programming/week-7/react-express-app/react-expressjs.md).
